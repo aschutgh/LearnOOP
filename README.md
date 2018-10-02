@@ -10,8 +10,8 @@ This repository contains projects with examples about object oriented programmin
 * exam: Microsoft 98-361
 
 ### Order of examples
-* Create A Class
-* Create An Object
-* Create Properties
-* Publish And Subscribe To Events
-* Create Static Members
+1 Create A Class
+2 Create An Object
+3 Create Properties
+4 Publish And Subscribe To Events
+5 Create Static Members
