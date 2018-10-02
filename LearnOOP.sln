@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateDerivedClasses", "Cre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateAbstractClasses", "CreateAbstractClasses\CreateAbstractClasses.csproj", "{219301A5-61B2-478B-940C-D03D6E45B06E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsePolymorphism", "UsePolymorphism\UsePolymorphism.csproj", "{6B637984-80C2-48F9-97A9-FF3AF79D9DDC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{219301A5-61B2-478B-940C-D03D6E45B06E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{219301A5-61B2-478B-940C-D03D6E45B06E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{219301A5-61B2-478B-940C-D03D6E45B06E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B637984-80C2-48F9-97A9-FF3AF79D9DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B637984-80C2-48F9-97A9-FF3AF79D9DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B637984-80C2-48F9-97A9-FF3AF79D9DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B637984-80C2-48F9-97A9-FF3AF79D9DDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
