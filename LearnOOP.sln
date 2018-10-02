@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateAnObject", "CreateAnO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateProperties", "CreateProperties\CreateProperties.csproj", "{7725C655-911F-4298-B38D-6673526BF2B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PublishAndSubscribeToEvents", "PublishAndSubscribeToEvents\PublishAndSubscribeToEvents.csproj", "{96D0A75E-8008-4855-B124-5BF574F689E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{7725C655-911F-4298-B38D-6673526BF2B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7725C655-911F-4298-B38D-6673526BF2B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7725C655-911F-4298-B38D-6673526BF2B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96D0A75E-8008-4855-B124-5BF574F689E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96D0A75E-8008-4855-B124-5BF574F689E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96D0A75E-8008-4855-B124-5BF574F689E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96D0A75E-8008-4855-B124-5BF574F689E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
