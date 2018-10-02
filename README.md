@@ -15,3 +15,4 @@ This repository contains projects with examples about object oriented programmin
 3. Create Properties
 4. Publish And Subscribe To Events
 5. Create Static Members
+6. Copy Value And Reference Types
