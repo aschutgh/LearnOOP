@@ -18,3 +18,4 @@ This repository contains projects with examples about object oriented programmin
 7. Create Derived Classes
 8. Create Abstract Classes
 9. Use Polymorphism
+10. Use The IComparable Interface
