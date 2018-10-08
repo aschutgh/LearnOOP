@@ -1,5 +1,7 @@
 # LearnOOP
-This repository contains projects with examples about object oriented programming.  
+This repository contains projects with examples about object oriented programming.
+Learning object oriented programming continues at [LearnOOP2](https://github.com/aschutgh/LearnOOP2)
+
 ## Software Development Fundamentals
 
 ### Source
